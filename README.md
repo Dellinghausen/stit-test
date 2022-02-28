@@ -19,6 +19,8 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+The api run at PORT 3000, you can change it on .env file
 ```
 ## Support
 
@@ -26,9 +28,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Tiago Lopes]
 
 ## License
 
